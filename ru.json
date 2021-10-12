@@ -1,5 +1,5 @@
 ﻿{
-	// Перевод по версии Jay (kousko@gmail.com)
+	// Перевод по версии Jay (kousko@gmail.com)_2
 	
 	"missingemailorpassword": "Пропущен e-mail или пароль",
 	"invalidemailorpassword": "Неверный e-mail или пароль",
@@ -93,7 +93,7 @@
 	"block-collapsed3-chest-*": "Развалившийся сундук",
 	"mealcreation-makesingular": "Получится {0} порция: {1}",
 	"mealcreation-makeplural": "Получится {0} порц.: {1}",
-	"Burn temperature: {0}°C": "Температура горения: {0}°C",
+	"Burn temperature: {0}°C": "Температура горения: {0} °C",
 	"Burn duration: {0}s": "Время горения: {0} сек",
 	"Attack power: -{0} hp": "Сила атаки: -{0} hp",
 	"soil-nutrition-requirement": "Требуемый элемент: ",
@@ -3472,7 +3472,7 @@
 	"setting-hover-coordinatehud": "Показывает в правом верхнем углу экрана небольшое окно с вашими координатами и стороной света, в которую вы смотрите",
 	"setting-hover-minimaphud": "Показывает мини-карту в правом верхнем углу экрана",
 	"Requires tool tier {0} ({1}) to break": "Чтобы разрушить, нужен инструмент {0} класса ({1})",
-	"Temperature: {0}°C": "Температура: {0}°C",
+	"Temperature: {0}°C": "Температура: {0} °C",
 	"Tool Tier: {0}": "Класс инструмента: {0}",
 	"Quantity Slots: {0}": "Количество ячеек: {0}",
 	"When eaten: {0} sat, {1} hp": "Если съесть: {0} насыщ., {1} ед. здоровья",
@@ -3658,7 +3658,7 @@
 	"Available Voxels: {0}": "Доступно вокселей: {0}",
 	"Hit '{0}' to select tool mode for quicker crafting": "Чтобы быстрее работать, выберите режим инструмента, нажав '{0}'",
 	"{0} with {1} lining": "{0} с отделкой: {1}",
-	"{0}°C": "{0}°C",
+	"{0}°C": "{0} °C",
 	"Temperature: {0}": "Температура: {0}",
 	"Warming up...": "Нагревается...",
 	"Teleports to {1}": "Телепортирует в {1}",
@@ -4814,11 +4814,11 @@
 	"worldconfig-polarEquatorDistance-15k blocks": "15 тыс. блоков",
 	"worldconfig-polarEquatorDistance-10k blocks": "10 тыс. блоков",
 	"worldconfig-polarEquatorDistance-5000 blocks": "5 тыс. блоков",
-	"worldconfig-startingClimate-Hot (28-32°C)": "Жарко (28-32°C)",
-	"worldconfig-startingClimate-Warm (19-23 °C)": "Тепло (19-23 °C)",
-	"worldconfig-startingClimate-Temperate (6-14 °C)": "Умеренно (6-14 °C)",
-	"worldconfig-startingClimate-Cool (-5 to 1 °C)": "Прохладно (-5 to 1 °C)",
-	"worldconfig-startingClimate-Icy (-15 to -10°C)": "Холодно (-15 to -10°C)",
+	"worldconfig-startingClimate-Hot (28-32°C)": "Жарко (28–32 °C)",
+	"worldconfig-startingClimate-Warm (19-23 °C)": "Тепло (19–23 °C)",
+	"worldconfig-startingClimate-Temperate (6-14 °C)": "Умеренно (6–14 °C)",
+	"worldconfig-startingClimate-Cool (-5 to 1 °C)": "Прохладно (от -5 до 1 °C)",
+	"worldconfig-startingClimate-Icy (-15 to -10°C)": "Холодно (от -15 до -10 °C)",
 	"worldattribute-saplingGrowthDays": "Скорость роста саженцев",
 	"worldattribute-saplingGrowthDays-desc": "Как много дней занимает рост дерева из саженца",
 	"worldattribute-temporalStorms": "Темпоральные бури",
@@ -6249,7 +6249,7 @@
 	"Top half to cold to weld, reheat the part on the forge.": "Верхняя часть слишком холодная для сварки, разогрейте её  в кузнечном горне.",
 	"Too cold to weld, reheat the part on the forge.": "Слишком холодное для сварки, разогрейте деталь в горне.",
 	"Must apply powdered borax as next step.": "Дальше вам будет нужна измельчённая бура.",
-	"greenhousetempbonus": "+5°C за счет теплицы",
+	"greenhousetempbonus": "+5 °C за счет теплицы",
 	
 	"Growth speeds: N Crop: {0}%, P Crop: {1}%, K Crop: {2}%\\nMoisture: {3}%": "Скорости роста: N посев: {0}%, P посев: {1}%, K посев: {2}%\\nВлажность: {3}%",
 	"Cold damaged, will only yield {0}% of produce": "Повреждено холодом, будет давать только {0}% продукции",
@@ -6262,7 +6262,7 @@
 	"Cannot fill an incomplete coffin, place the other half first": "Нельзя заполнять недостроенный контейнер, сначала установите вторую половину",
 	"This stone coffin is full already": "Этот контейнер уже заполнен",
 	
-	"Must add fuel of high enough quality now (burn temperature of 1300°C or higher)": "Нужно добавить хорошее топливо (с температурой горения 1300°C или выше)",
+	"Must add fuel of high enough quality now (burn temperature of 1300°C or higher)": "Нужно добавить хорошее топливо (с температурой горения 1300 °C или выше)",
 	
 	"Each layer requires 8 pieces of fuel": "Каждый слой требует 8 единиц топлива",
 	
@@ -6331,7 +6331,7 @@
 	"clothingcondition-heavilytattered": "очень рваное ({0}%)",
 	"clothingcondition-terrible": "ужасное ({0}%)",
 	"Condition:": "Условие:",
-	"clothing-maxwarmth": "Максимальное тепло: {0:0.#}°C",
+	"clothing-maxwarmth": "Максимальное тепло: {0:0.#} °C",
 	"Please add 2 caps at the same time!": "Нужно добавить сразу 2 наконечника!",
 	"Please add pounders before adding caps!": "Перед добавлением наконечников добавьте штыри!",
 	"Pulverizing:": "Дробится:",
