@@ -1,0 +1,208 @@
+{
+	// English localization file for 'ViesCraft'
+	// Russian translation variant by Jay (kousko@gmail.com)
+	
+	// Items:
+	"viescraft:item-machinepellets": "Гранулы для машины",
+	"viescraft:item-circuitlogic": "Логическая схема",
+	"viescraft:item-machinechassis": "Шасси машины",
+	"viescraft:item-moduleflying": "Модуль машины (полёт)",
+	"viescraft:item-machineupgradetierframe-1": "Набор улучшения 1 уровня (рама)",
+	"viescraft:item-machineupgradetierframe-2": "Набор улучшения 2 уровня (рама)",
+	"viescraft:item-machineupgradetierframe-3": "Набор улучшения 3 уровня (рама)",
+	"viescraft:item-machineupgradetierengine-1": "Набор улучшения 1 уровня (двигатель)",
+	"viescraft:item-machineupgradetierengine-2": "Набор улучшения 2 уровня (двигатель)",
+	"viescraft:item-machineupgradetierengine-3": "Набор улучшения 3 уровня (двигатель)",
+	"viescraft:item-machineupgradetiermodule-1": "Набор улучшения 1 уровня (модуль)",
+	"viescraft:item-machineupgradetiermodule-2": "Набор улучшения 2 уровня (модуль)",
+	"viescraft:item-machineupgradetiermodule-3": "Набор улучшения 3 уровня (модуль)",
+	"viescraft:item-kitrepairenergy": "Набор восстановления энергии (25)",
+	"viescraft:item-kitrepairdurability": "Набор восстановления прочности (25)",
+	"viescraft:item-circuitadaptive": "Адаптивный контур",
+	"viescraft:item-machineflyingairship": "Дирижабль",
+
+	"viescraft:item-machinewrench-*": "Гаечный ключ",
+
+	"viescraft:item-adminmaxtier": "Набор администратора (улучшение до макс. уровня)",
+	"viescraft:item-adminmaxall": "Набор администратора (все до макс.) *WIP",
+	"viescraft:item-adminmaxexpansion": "Набор администратора (все расширения) *WIP",
+
+	"viescraft:itemcraftdesc-machinewrench-*": "Инструмент, который в основном нужен для машин.",
+
+	// Blocks:
+	"viescraft:block-": "",
+
+	// Entities:
+	"viescraft:entitymachineflyingairship": "Летающая машина",
+
+
+	// Tooltips:
+	"viescraft:helpitem-machinewrench-iron-1": "Ремонт машины.",
+	"viescraft:help-machinewrench-1": "<font color=\"#99c9f9\"><i>Инструмент, который в основном нужен для машин.</i></font>",
+	"viescraft:help-machinewrench-2": "<font color=\"#99c9f9\"><i>Можно использовать как оружие.</i></font>",
+	"viescraft:help-circuitlogic-1": "<font color=\"#99c9f9\"><i>Основной компонент, используемый в различных элементах машин.</i></font>",
+	"viescraft:help-circuitadaptive-1": "<font color=\"#99c9f9\"><i>WIP*Основное оборудование, созданное для расширения возможностей машины.</i></font>",
+	"viescraft:help-machinechassis-1": "<font color=\"#99c9f9\"><i>Специальный каркас, который нужен для изготовления машин для путешествий.</i></font>",
+	"viescraft:help-moduleflying-1": "<font color=\"#99c9f9\"><i>Сложное устройство, дающее машинам возможность летать.</i></font>",
+	"viescraft:help-machinepellets-1": "<font color=\"#99c9f9\"><i>Эффективный источник топлива для машин.</i></font>",
+
+
+	"viescraft:help-adminmaxall-1": "Ремонтирует машину, максимально увеличивая здоровье, энергию, прочность, дает все улучшения и слоты расширения.",
+	"viescraft:help-adminmaxtier-1": "Максимизирует все улучшения машины.",
+	"viescraft:help-adminmaxexpansion-1": "",
+	"viescraft:help-adminkit-1": "Только для администраторов.",
+
+	"viescraft:helditem-itemairship-1": "Бросьте, чтобы разблокировать машину.",
+	"viescraft:help-itemairship-1": "<font color=\"#99c9f9\"><i>Бросьте этот предмет, чтобы разблокировать находящуюся внутри машину.</i></font>",
+
+
+	"viescraft:hotkey-moveforward": "Дирижабль - Вперед",
+	"viescraft:hotkey-movebackward": "Дирижабль - Назад",
+	"viescraft:hotkey-moveturnleft": "Дирижабль - Налево",
+	"viescraft:hotkey-moveturnright": "Дирижабль - Направо",
+	"viescraft:hotkey-moveup": "Дирижабль - Вверх",
+	"viescraft:hotkey-movedown": "Дирижабль - Вниз",
+	"viescraft:hotkey-opendialog": "Дирижабль - Меню",
+
+
+	"viescraft:helpitem-machinewrench-1": "Атака",
+	"viescraft:helpitem-machinewrench-2": "Ремонт машины",
+	"viescraft:help-wrench-message-1": "Начинаю ремонтировать эту машину.",
+	"viescraft:help-wrench-message-2": "Этой машине не нужен ремонт.",
+	"viescraft:help-wrench-message-3": "Машина отремонтирована.",
+
+
+	"viescraft:helpitem-machineupgradetier-1": "Модернизация машины",
+	"viescraft:help-machineupgradetierframe1": "Модернизация рамы машины до уровня 1.",
+	"viescraft:help-machineupgradetierframe2": "Модернизация рамы машины до уровня 2.",
+	"viescraft:help-machineupgradetierframe3": "Модернизация рамы машины до уровня 3.",
+	"viescraft:help-machineupgradetierengine1": "Модернизация двигателя машины до уровня 1.",
+	"viescraft:help-machineupgradetierengine2": "Модернизация двигателя машины до уровня 2.",
+	"viescraft:help-machineupgradetierengine3": "Модернизация двигателя машины до уровня 3.",
+	"viescraft:help-machineupgradetiermodule1": "Модернизация модуля машины до уровня 1.",
+	"viescraft:help-machineupgradetiermodule2": "Модернизация модуля машины до уровня 2.",
+	"viescraft:help-machineupgradetiermodule3": "Модернизация модуля машины до уровня 3.",
+
+	"viescraft:help-machineupgradetierframe1-success": "Рама машины улучшена до 1 уровня!",
+	"viescraft:help-machineupgradetierframe2-success": "Рама машины улучшена до 2 уровня!",
+	"viescraft:help-machineupgradetierframe3-success": "Рама машины улучшена до 3 уровня!",
+	"viescraft:help-machineupgradetierengine1-success": "Двигатель машины улучшен до 1 уровня!",
+	"viescraft:help-machineupgradetierengine2-success": "Двигатель машины улучшен до 2 уровня!",
+	"viescraft:help-machineupgradetierengine3-success": "Двигатель машины улучшен до 3 уровня!",
+	"viescraft:help-machineupgradetiermodule1-success": "Модуль машины улучшен до 1 уровня!",
+	"viescraft:help-machineupgradetiermodule2-success": "Модуль машины улучшен до 2 уровня!",
+	"viescraft:help-machineupgradetiermodule3-success": "Модуль машины улучшен до 3 уровня!",
+
+	"viescraft:help-machineupgradetierframe-cantuse": "Нельзя применить это улучшение рамы.",
+	"viescraft:help-machineupgradetierengine-cantuse": "Нельзя применить это улучшение двигателя.",
+	"viescraft:help-machineupgradetiermodule-cantuse": "Нельзя применить это улучшение модуля.",
+
+
+	"viescraft:help-kitrepairdurability-success": "Набор восстановления прочности применен.",
+	"viescraft:help-kitrepairdurability-cantuse": "Нельзя использовать этот набор!",
+	"viescraft:help-kitrepairenergy-success": "Набор восстановления энергии применен.",
+	"viescraft:help-kitrepairenergy-cantuse": "Нельзя использовать этот набор!",
+
+	"viescraft:help-machine-status-message-1": "Только владелец может управлять этой машиной!",
+
+
+	"viescraft:help-kitrepairenergy": "Восстанавливает 25 энергии машины",
+	"viescraft:help-kitrepairdurability": "Восстанавливает 25 прочности машины",
+
+	"viescraft:help-insufficientenergy-failure": "У этой машины нет столько энергии (нужно 20).",
+	"viescraft:help-energyusedframe-success": "Текстура рамы изменена (-20 энергии).",
+	"viescraft:help-energyusedengine-success": "Текстура двигателя изменена (-20 энергии).",
+	"viescraft:help-energyusedmodule-success": "Текстура модуля изменена (-20 энергии).",
+	"viescraft:help-energyusedbase-success": "Текстура сиденья и канатов изменена (-20 энергии).",
+	"viescraft:help-energyusedframedefault-success": "Установлена текстура по умолчанию для рамы (0 энергии).",
+	"viescraft:help-energyusedenginedefault-success": "Установлена текстура по умолчанию для двигателя (0 энергии).",
+	"viescraft:help-energyusedmoduledefault-success": "Установлена текстура по умолчанию для модуля (0 энергии).",
+	"viescraft:help-energyusedbasedefault-success": "Установлена текстура по умолчанию для сиденья и канатов (0 энергии).",
+
+
+	"viescraft:help-energyusedname-success": "Вы переименовали машину (-10 энергии).",
+	"viescraft:help-insufficientenergyname-failure": "У этой машины нет столько энергии (нужно 10).",
+
+
+	// GUIs:
+	"viescraft:gui-health": "Здоровье",
+	"viescraft:gui-energy": "Энергия",
+	"viescraft:gui-durability": "Прочность",
+	"viescraft:gui-activefuel": "Текущее:",
+	"viescraft:gui-totalfueltime": "Запас топлива:",
+	"viescraft:gui-new": "Нов.",
+	"viescraft:gui-current": "Имя",
+	"viescraft:gui-menu-main": "Основное",
+	"viescraft:gui-menu-customize": "Персонализация",
+	"viescraft:gui-mainmenu": "Основное меню",
+	"viescraft:gui-customizemenu": "Меню персонализации",
+	"viescraft:gui-options": "Опции",
+	"viescraft:gui-stats": "Параметры",
+
+	"viescraft:gui-mouseover-health": "Когда здоровье достигнет 0, машина сломается",
+	"viescraft:gui-mouseover-energy": "Используется для персонализации машины. Медленно набирается по мере работы двигателя",
+	"viescraft:gui-mouseover-durability": "Низкая прочность ведет к проблемам с двигателем. При достижении 0% машина сломается. Медленно теряется по мере работы двигателя",
+
+	"viescraft:gui-mouseover-frame": "Влияет на макс. здоровье, энергию, прочность и скорость поворота",
+	"viescraft:gui-mouseover-engine": "Влияет на скорость движения вперед и назад",
+	"viescraft:gui-mouseover-module": "Влияет на макс. высоту, скорость движения вверх и вниз, дает +4 ячейки хранилища",
+
+	"viescraft:gui-fuel": "Топливо",
+	"viescraft:gui-machinestorage": "Хранилище машины",
+	"viescraft:gui-expansionslot": "Слот расширения",
+	"viescraft:gui-insertfuel": "Добавить топливо",
+	"viescraft:gui-poweronoff": "Питание вкл/выкл",
+	"viescraft:gui-convertmachinetoitem": "Преобразовать машину в предмет",
+
+
+
+	"viescraft:gui-frame": "Рама",
+	"viescraft:gui-engine": "Двигатель",
+	"viescraft:gui-module": "Модуль",
+	"viescraft:gui-base": "Сиденье",
+	"viescraft:gui-basic": "базов.",
+	"viescraft:gui-tier": "ур.",
+
+
+
+	"viescraft:gui-mouseover-rename": "Переименование машины стоит 10 энергии.",
+	"viescraft:gui-mouseover-textures": "Изменение текстуры стоит 20 энергии. Текстура по умолчанию - бесплатная. Чтобы другие игроки увидели изменения, преобразуйте машину в предмет и обратно.",
+
+	"viescraft:gui-changename": "Переименовать",
+
+
+	"viescraft:gui-default": "По умолчанию",
+	"viescraft:gui-red": "Красн.",
+	"viescraft:gui-orange": "Оранж.",
+	"viescraft:gui-yellow": "Желт.",
+	"viescraft:gui-green": "Зелен.",
+	"viescraft:gui-cyan": "Голуб.",
+	"viescraft:gui-blue": "Син.",
+	"viescraft:gui-purple": "Фиолет.",
+	"viescraft:gui-white": "Бел.",
+	"viescraft:gui-black": "Черн.",
+	"viescraft:gui-brown": "Корич.",
+
+
+	"viescraft:gui-textures": "Текстуры",
+
+
+
+	"viescraft:name-broken": "Сломано",
+	"viescraft:owner-offline": "не в сети",
+	"viescraft:owner-belongsto": "Владелец",
+	"viescraft:owner-noowner": "Нет владельца",
+	"viescraft:entitybase-machinetype": "Базовая машина",
+	"viescraft:entityfuel-machinetype": "Топливная машина",
+	"viescraft:entityflying-machinetype": "Летающая машина",
+
+	"viescraft:airship": "Дирижабль",
+
+
+	"viescraft:theviescraft-title": "Том I. The 'Vies' Craft",
+	"viescraft:theviescraft-text": "<strong>Том I. The 'Vies' Craft</strong><br><i>«Давным-давно, когда этот мир еще не был «испорчен», жажда знаний побуждала Древних путешествовать по миру. Чтобы исследовать земли, моря и небеса, они использовали механизмы из металла. Но сейчас пришла эпоха серафимов. И мы тоже устремимся ввысь, и небеса содрогнутся» - Vies</i><br><br><i><strong>Начало.</strong></i><br>Создайте свою машину! Для начала сделайте на наковальне <a href=\"handbook://item-viescraft:machinewrench-iron\">гаечный ключ</a> из обычного или метеоритного железа. Этот ключ пригодится не только для создания различных деталей, но и для ремонта машин, если они сломаются. Также ключ подойдет и для самообороны. Не меч, конечно, но с задачей справится. Кроме гаечного ключа вам нужно будет сделать несколько <a href=\"handbook://item-viescraft:circuitlogic\">логических схем</a>, <a href=\"handbook://item-viescraft:machinechassis\">шасси машины</a> и модуль для нее. Рецепты можно посмотреть в справочнике. <br><i>Типы модулей</i>: <a href=\"handbook://item-viescraft:moduleflying\">модуль машины (полёт)</a> <br><i>Типы машин</i>: <a href=\"handbook://item-viescraft:machineflyingairship\">дирижабль</a><br><br><i><strong>Как использовать.</strong></i><br>Держа машину в руке, зажмите <icon name=rightmousebutton></icon>, чтобы бросить ее. Чтобы сесть в машину, подойдите к ней и нажмите <icon name=rightmousebutton></icon>. Главное меню машины по умолчанию вызывается клавишей <strong>'R'</strong>. В этом меню вы можете просмотреть параметры машины, добавить топливо, воспользоваться хранилищем машины и взаимодействовать с различными расширениями машины для ее улучшения. В меню есть множество подсказок, которые объяснят вам, что есть что.<br><br><i><strong>Опции меню.</strong></i><br>Верхняя кнопка включает/выключает машину. Чтобы двигаться, машина должны быть включены и заправлена. Если вы не используете машину, выключайте ее, чтобы сэкономить топливо. Кнопка ниже преобразует машину обратно в предмет, который, в том числе, можно размещать на полках и витринах. При этом все предметы в хранилище машины (но не в ячейке для топлива) будут выброшены на землю! <br><br><i><strong>Перемещение машины.</strong></i><br>Откройте меню машины и поместите в слот для топлива <a href=\"handbook://item-charcoal\">древесный уголь</a>, <a href=\"handbook://item-ore-lignite\">бурый уголь</a>, <a href=\"handbook://item-ore-bituminouscoal\">каменный уголь</a> или <a href=\"handbook://item-viescraft:machinepellets\">гранулы для машины</a>. Включите машину, нажав на кнопку питания (в опциях). Загорится зеленый индикатор, показывающий, что машина включена. Если машина включена и не сломана, вы сможете перемещаться! <br><br><i>Примечание. Все привязки клавиш машины можно изменить в 'Настройки' - 'Управление' - 'Интерфейс пользователя и другое'.</i>",
+
+	"viescraft:machinesandyou-title": "Том II. Машины и вы",
+	"viescraft:machinesandyou-text": "<strong>Том II. Машины и вы</strong><br><i>«Захватывающие дух механизмы. Чудовища из металла. Изумительные машины... Наступил век чудес. Благодаря вновь открытым технологиям теперь мы можем делать гораздо больше, чем раньше. Пришло время узнать, как работают эти машины... Ради науки!» - Vies</i><br><br><i><strong>Основные системы.</strong></i><br>Пока машина сжигает топливо, происходит несколько вещей, о которых вы можете не догадываться. В процессе работы машины медленно набирают «энергию» и теряют «прочность». Энергию можно использовать для персонализации машины <strong>(WIP)</strong>. Прочность влияет на то, насколько хорошо работает машина. Если прочность опускается ниже <strong>50%</strong>, у машины могут возникнуть <strong>небольшие проблемы</strong>, ниже <strong>25%</strong> - <strong>большие проблемы</strong>. Если прочность упадет до <strong>0%</strong>, машина сломается! Также она сломается, если до <strong>0</strong> упадет ее здоровье. Чтобы ремонтировать сломанные машины, используйте <a href=\"handbook://item-viescraft:machinewrench-iron\">гаечный ключ</a>.<br><br><i><strong>Система улучшений.</strong></i><br>Улучшения нужны, чтобы, хм, улучшать машины. Существует 3 типа улучшений - улучшения  рамы, двигателя и модуля. Чтобы применить улучшение, присядьте с улучшением в руке и <icon name=rightmousebutton></icon> на машину.<br><br>Улучшение рамы влияют на: <br><i>макс. здоровье, макс. энергия (WIP), макс. прочность (WIP) и скорость поворота (ур.1:33%, ур.2:66%, ур.3:100%). </i> <br><br>Улучшение двигателя влияет на: <br><i>скорость движения вперед/назад (ур.1:50%, ур.2:100%, ур.3:150%), регенерацию энергии (WIP) и скорость снижения прочности (WIP). </i> <br><br>Улучшение модуля влияет на: <br><i>макс. высоту, макс. скорость движения вверх/вниз (ур.1:33%, ур.2:66%, ур.3:100%) и добавляет 4 ячейки в хранилище машины.</i><br><br>Улучшения бывают 3 уровней. Рецепты перечислены ниже.<br><a href=\"handbook://item-viescraft:machineupgradetierframe-1\">Набор улучшения 1 уровня (рама)</a><br><a href=\"handbook://item-viescraft:machineupgradetierframe-2\">Набор улучшения 2 уровня (рама)</a><br><a href=\"handbook://item-viescraft:machineupgradetierframe-3\">Набор улучшения 3 уровня (рама)</a><br><br><a href=\"handbook://item-viescraft:machineupgradetierengine-1\">Набор улучшения 2 уровня (двигатель)</a><br><a href=\"handbook://item-viescraft:machineupgradetierengine-2\">Набор улучшения 2 уровня (двигатель)</a><br><a href=\"handbook://item-viescraft:machineupgradetierengine-3\">Набор улучшения 3 уровня (двигатель)</a><br><br><a href=\"handbook://item-viescraft:machineupgradetiermodule-1\">Набор улучшения 2 уровня (модуль)</a><br><a href=\"handbook://item-viescraft:machineupgradetiermodule-2\">Набор улучшения 2 уровня (модуль)</a><br><a href=\"handbook://item-viescraft:machineupgradetiermodule-3\">Набор улучшения 3 уровня (модуль)</a>"
+
+}

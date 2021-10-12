@@ -1,6 +1,7 @@
 ﻿{
-	// Перевод по версии Jay (kousko@gmail.com)_3
-	
+	// Перевод по версии Jay
+	// Translation variant by Jay (kousko@gmail.com)
+		
 	"missingemailorpassword": "Пропущен e-mail или пароль",
 	"invalidemailorpassword": "Неверный e-mail или пароль",
 	"accountbanned": "Ваш аккаунт был заблокирован",
