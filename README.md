@@ -8,7 +8,7 @@ _По версии Jay_
 
 
 ## [Vintage story](https://www.vintagestory.at/)
-Версия 1.15.6
+Версия 1.15.7
 
 ## [Mods](https://mods.vintagestory.at/)
 * TemporalTinkerer_v2.2.8
