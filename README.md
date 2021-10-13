@@ -20,6 +20,6 @@ _По версии Jay_
 
 Просто качайте нужный файл и складывайте его по указанному пути (возможно, с заменой)
 
-Например, если вам нужен перевод самой игры – скачайте файл `ru.json` из `Vintage Story/assets/game/lang` и положите его в каталог игры, по пути `Vintage Story\assets\game\lang`
+Например, если вам нужен перевод самой игры — скачайте файл `ru.json` из `Vintage Story/assets/game/lang` и положите его в каталог игры, по пути `Vintage Story\assets\game\lang`
 
-Если вам нужен перевод мода `ViesCraft` – скачайте файл из соответствующей папки в `Mods` и положите его в свой каталог с модами (прямо внутрь архива) по пути `/VintagestoryData/Mods/ViesCraft/assets/viescraft/lang/`
+Если вам нужен перевод мода `ViesCraft` — скачайте файл из соответствующей папки в `Mods` и положите его в свой каталог с модами (прямо внутрь архива) по пути `/VintagestoryData/Mods/ViesCraft/assets/viescraft/lang/`
