@@ -13,8 +13,8 @@ _По версии Jay_
 ## [Mods](https://mods.vintagestory.at/)
 * TemporalTinkerer_v2.2.8
 * ViesCraft-VS1.15.5-v1.0.5
-* xlib_v0.6.0-pre.9
-* xskills_v0.6.0-pre.9
+* xlib_v0.6.0
+* xskills_v0.6.0
 
 ## Installation
 
